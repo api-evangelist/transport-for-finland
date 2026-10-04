@@ -39,7 +39,6 @@ apis:
   - name: Transport for Finland
     description: "Finnish transport API"
     humanURL: https://digitransit.fi/en/developers/
-    baseURL: https://digitransit.fi/en/developers/
     tags:
       - Transportation
     properties:
